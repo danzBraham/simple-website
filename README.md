@@ -1,1 +1,1 @@
-Ini adalah website sederhana pertama yang saya buat
+This is my first website
